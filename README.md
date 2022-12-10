@@ -80,9 +80,6 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/zeeshani26/github-readme-stats"><img alt="zeeshani26" Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeeshani26&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="zeeshani26" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-
-
 <br/>
 <br/>
 
