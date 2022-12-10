@@ -86,7 +86,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/zeeshani26/github-readme-activity-graph"><img alt="zeeshani26 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeeshani26&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zeeshani26&bg_color=000000&color=ffffff&line=469147&point=1aff1d&area=true&hide_border=true" />
 
 <br/>
 <br/>
