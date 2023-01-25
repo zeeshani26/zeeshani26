@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zeeshani26.github.io/](https://zeeshani26.github.io/)
 
-- 💬 Ask me about **React, JavaScript HTML & CSS **
+- 💬 Ask me about **React, JavaScript, NextJS & MongoDB**
 
 - 📫 How to reach me **zeeshan02679@gmail.com**
 
